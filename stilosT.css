@@ -17,3 +17,9 @@ header{
 .image{
 	text-align: center;
 }
+
+
+.catDiv {
+	border-top: 6px solid cadetblue;
+
+}
