@@ -23,3 +23,20 @@ header{
 	border-top: 6px solid cadetblue;
 
 }
+
+
+@font-face{
+		font-family:'FN';
+		src: url(fuentes/Nasa.ttf);
+	}
+
+	
+#title{
+	font:bold 45px 'FN';
+	text-shadow:#6A6A6A 3px 3px 5px; /* darle sombra al texto*/
+	color: rgba(0,0,0,0.8)
+}
+
+#titulo2{
+	font:bold 23px 'FN';
+}
